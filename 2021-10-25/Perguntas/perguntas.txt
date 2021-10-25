@@ -1,0 +1,10 @@
+1) Faça um programa que mostre a possibilidade de uma criança do sexo masculino nascer com paralisia cerebral. O índice da doença é de 2/1000 nascidos vivos, sendo que a probabilidade da criança nascer menino é de 50%.
+
+2) Faça um programa que leia 3 números e diga se algum desses pertence à sequência de fibonacci (e quantos). 
+A fórmula para a sequência de fibonacci é fn[i] = fn[i-1]+fn[i-2], sendo que ela começa com 0 e 1, respectivamente.
+
+3) Faça um programa que gere 3 números aleatórios pares ou ímpares e mostre na tela.
+
+4) faça um programa que leia 3 dias de 2021 e indique o tempo, em dias, entre cada um deles.
+
+5) Faça um programa que transcreva uma frase ou palavra em código binário equivalente em padrão ASCII
